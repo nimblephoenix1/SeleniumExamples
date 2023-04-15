@@ -1,2 +1,2 @@
 # SeleniumExamples
-Onlinepay.py uses Selesnium to log onto github accepting input with tkinter GUI in python
+Onlinepay.py uses Selenium to log onto github accepting input with tkinter GUI in python
