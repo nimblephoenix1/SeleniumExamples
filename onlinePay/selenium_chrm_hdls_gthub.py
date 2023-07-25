@@ -19,7 +19,7 @@ uname = driver.find_element("id", "login_field")
 uname.send_keys( username )
 
 #Send the password to the password field
-psswrd 	= "&&10Doug##GH"
+psswrd 	= "&&10Dg##GH"
 pw = driver.find_element("id", "password") 
 pw.send_keys( psswrd )
 
